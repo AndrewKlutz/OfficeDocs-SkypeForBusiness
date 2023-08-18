@@ -26,6 +26,7 @@ Users in your organization can send feedback about Microsoft Teams to let us kno
 
 > [!NOTE]
 > Feedback policies aren't available in DOD deployments.
+> Moblie Give feedback is not currently available.
 
 **The **Give feedback** feature**
 
